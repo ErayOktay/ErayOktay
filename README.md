@@ -7,10 +7,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />  
 
 🚀 **Projelerim:**  
-[📝 Lesson Registration System][https://github.com/ErayOktay/AcademicPortal1.0]
+[📝 Lesson Registration System]([https://github.com/ErayOktay/AcademicPortal1.0])
 *(Ders kayıt sistemi, PHP/MySQL ile geliştirildi)*  
 
 📫 **İletişim:**  
-📧 erayoktay02@gmail.com | 🔗 [LinkedIn Profilim][https://www.linkedin.com/in/eray-oktay-b80098296/]
+📧 erayoktay02@gmail.com | 🔗 ([LinkedIn Profilim][https://www.linkedin.com/in/eray-oktay-b80098296/])
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erayoktay&show_icons=true&theme=radical)
