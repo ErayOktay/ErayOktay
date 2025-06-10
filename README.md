@@ -53,5 +53,5 @@
 
 
 
-📫 **İletişim:**  
+## 📫 **İletişim:**  
 📧 erayoktay02@gmail.com | 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/eray-oktay-b80098296/)
