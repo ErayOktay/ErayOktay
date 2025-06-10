@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, ben Eray Oktay! 👋  
+**💻 Fullstack Web Developer Adayı** | 🌱 React & PHP | 🎓 Trakya Üniversitesi  
 
-<!--
-**ErayOktay/ErayOktay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 **Teknolojiler:**  
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />  
 
-Here are some ideas to get you started:
+🚀 **Projelerim:**  
+[📝 Lesson Registration System](https://github.com/erayoktay/lesson-registration)  
+*(Ders kayıt sistemi, PHP/MySQL ile geliştirildi)*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **İletişim:**  
+📧 erayoktay02@gmail.com | 🔗 [LinkedIn Profilim](https://linkedin.com/in/erayoktay)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erayoktay&show_icons=true&theme=radical)
