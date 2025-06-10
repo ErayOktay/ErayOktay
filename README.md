@@ -1,5 +1,5 @@
 # Merhaba, ben Eray Oktay! 👋  
-**💻 Fullstack Web Developer Adayı** | 🌱 React & PHP | 🎓 Trakya Üniversitesi Bilgisayar Programcılığı 
+**💻 Fullstack Web Developer Adayı** | **🎓 Trakya Üniversitesi Bilgisayar Programcılığı**
 
 # 🔨 Teknolojiler:
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
