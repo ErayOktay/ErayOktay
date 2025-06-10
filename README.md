@@ -13,4 +13,4 @@
 📫 **İletişim:**  
 📧 erayoktay02@gmail.com | 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/eray-oktay-b80098296/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erayoktay&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erayoktay&show_icons=true&theme=radical&cache_buster=12345)
