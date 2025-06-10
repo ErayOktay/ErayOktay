@@ -1,7 +1,7 @@
 # Merhaba, ben Eray Oktay! 👋  
 **💻 Fullstack Web Developer Adayı** | 🌱 React & PHP | 🎓 Trakya Üniversitesi Bilgisayar Programcılığı 
 
-🔨 Teknolojiler:
+# 🔨 Teknolojiler:
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
 
-🚀 Projelerim:
+## 🚀 Projelerim:
 
 📝 Lesson Registration System
 (Ders kayıt sistemi, PHP/MySQL ile geliştirildi)
